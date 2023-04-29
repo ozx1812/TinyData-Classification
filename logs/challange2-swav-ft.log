@@ -1,0 +1,275 @@
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=10, batch_size=8
+root - INFO - Acc over 25 instances: 75.44 +- 8.96
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=10, batch_size=16
+root - INFO - Acc over 25 instances: 68.30 +- 10.33
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=10, batch_size=32
+root - INFO - Acc over 25 instances: 69.41 +- 10.37
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=10, batch_size=64
+root - INFO - Acc over 25 instances: 69.65 +- 9.51
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=20, batch_size=8
+root - INFO - Acc over 25 instances: 78.26 +- 8.12
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=20, batch_size=16
+root - INFO - Acc over 25 instances: 73.38 +- 11.38
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=20, batch_size=32
+root - INFO - Acc over 25 instances: 75.50 +- 9.11
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=20, batch_size=64
+root - INFO - Acc over 25 instances: 73.25 +- 9.54
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=30, batch_size=8
+root - INFO - Acc over 25 instances: 78.55 +- 8.93
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=30, batch_size=16
+root - INFO - Acc over 25 instances: 75.46 +- 10.74
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=30, batch_size=32
+root - INFO - Acc over 25 instances: 75.47 +- 8.87
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=30, batch_size=64
+root - INFO - Acc over 25 instances: 72.67 +- 9.53
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=40, batch_size=8
+root - INFO - Acc over 25 instances: 78.84 +- 9.11
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=40, batch_size=16
+root - INFO - Acc over 25 instances: 78.36 +- 9.72
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=40, batch_size=32
+root - INFO - Acc over 25 instances: 79.47 +- 8.15
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=40, batch_size=64
+root - INFO - Acc over 25 instances: 75.81 +- 8.39
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=50, batch_size=8
+root - INFO - Acc over 25 instances: 79.86 +- 8.22
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=50, batch_size=16
+root - INFO - Acc over 25 instances: 77.86 +- 9.68
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=50, batch_size=32
+root - INFO - Acc over 25 instances: 80.41 +- 8.43
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=50, batch_size=64
+root - INFO - Acc over 25 instances: 75.62 +- 8.50
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=100, batch_size=8
+root - INFO - Acc over 25 instances: 80.34 +- 9.20
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=100, batch_size=16
+root - INFO - Acc over 25 instances: 79.33 +- 8.33
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=100, batch_size=32
+root - INFO - Acc over 25 instances: 81.18 +- 8.47
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=100, batch_size=64
+root - INFO - Acc over 25 instances: 81.05 +- 8.30
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=150, batch_size=8
+root - INFO - Acc over 25 instances: 80.66 +- 8.48
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=150, batch_size=16
+root - INFO - Acc over 25 instances: 77.98 +- 9.55
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=150, batch_size=32
+root - INFO - Acc over 25 instances: 81.64 +- 8.14
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.01, epochs=150, batch_size=64
+root - INFO - Acc over 25 instances: 80.56 +- 8.34
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=10, batch_size=8
+root - INFO - Acc over 25 instances: 69.41 +- 10.44
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=10, batch_size=16
+root - INFO - Acc over 25 instances: 61.10 +- 8.38
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=10, batch_size=32
+root - INFO - Acc over 25 instances: 58.35 +- 6.52
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=10, batch_size=64
+root - INFO - Acc over 25 instances: 50.49 +- 5.22
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=20, batch_size=8
+root - INFO - Acc over 25 instances: 74.45 +- 8.40
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=20, batch_size=16
+root - INFO - Acc over 25 instances: 68.98 +- 9.18
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=20, batch_size=32
+root - INFO - Acc over 25 instances: 68.70 +- 7.98
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=20, batch_size=64
+root - INFO - Acc over 25 instances: 59.99 +- 7.57
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=30, batch_size=8
+root - INFO - Acc over 25 instances: 76.53 +- 9.23
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=30, batch_size=16
+root - INFO - Acc over 25 instances: 72.60 +- 10.45
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=30, batch_size=32
+root - INFO - Acc over 25 instances: 70.21 +- 8.98
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=30, batch_size=64
+root - INFO - Acc over 25 instances: 63.49 +- 8.16
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=40, batch_size=8
+root - INFO - Acc over 25 instances: 75.96 +- 9.91
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=40, batch_size=16
+root - INFO - Acc over 25 instances: 73.38 +- 10.47
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=40, batch_size=32
+root - INFO - Acc over 25 instances: 75.14 +- 8.47
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=40, batch_size=64
+root - INFO - Acc over 25 instances: 68.64 +- 8.11
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=50, batch_size=8
+root - INFO - Acc over 25 instances: 77.56 +- 7.72
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=50, batch_size=16
+root - INFO - Acc over 25 instances: 76.41 +- 8.14
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=50, batch_size=32
+root - INFO - Acc over 25 instances: 76.58 +- 8.44
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=50, batch_size=64
+root - INFO - Acc over 25 instances: 71.55 +- 8.23
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=100, batch_size=8
+root - INFO - Acc over 25 instances: 78.74 +- 8.34
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=100, batch_size=16
+root - INFO - Acc over 25 instances: 78.26 +- 8.34
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=100, batch_size=32
+root - INFO - Acc over 25 instances: 78.16 +- 8.22
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=100, batch_size=64
+root - INFO - Acc over 25 instances: 76.19 +- 8.31
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=150, batch_size=8
+root - INFO - Acc over 25 instances: 79.15 +- 8.20
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=150, batch_size=16
+root - INFO - Acc over 25 instances: 77.84 +- 8.78
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=150, batch_size=32
+root - INFO - Acc over 25 instances: 79.64 +- 8.00
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.001, epochs=150, batch_size=64
+root - INFO - Acc over 25 instances: 77.95 +- 8.37
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=10, batch_size=8
+root - INFO - Acc over 25 instances: 73.44 +- 9.17
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=10, batch_size=16
+root - INFO - Acc over 25 instances: 66.45 +- 10.41
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=10, batch_size=32
+root - INFO - Acc over 25 instances: 68.72 +- 10.11
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=10, batch_size=64
+root - INFO - Acc over 25 instances: 62.68 +- 9.52
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=20, batch_size=8
+root - INFO - Acc over 25 instances: 76.57 +- 9.15
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=20, batch_size=16
+root - INFO - Acc over 25 instances: 75.14 +- 8.83
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=20, batch_size=32
+root - INFO - Acc over 25 instances: 71.96 +- 8.66
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=20, batch_size=64
+root - INFO - Acc over 25 instances: 72.45 +- 7.40
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=30, batch_size=8
+root - INFO - Acc over 25 instances: 78.79 +- 8.03
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=30, batch_size=16
+root - INFO - Acc over 25 instances: 75.79 +- 10.64
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=30, batch_size=32
+root - INFO - Acc over 25 instances: 75.29 +- 8.73
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=30, batch_size=64
+root - INFO - Acc over 25 instances: 71.35 +- 9.57
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=40, batch_size=8
+root - INFO - Acc over 25 instances: 78.60 +- 8.24
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=40, batch_size=16
+root - INFO - Acc over 25 instances: 76.62 +- 9.50
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=40, batch_size=32
+root - INFO - Acc over 25 instances: 79.18 +- 8.14
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=40, batch_size=64
+root - INFO - Acc over 25 instances: 73.89 +- 8.49
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=50, batch_size=8
+root - INFO - Acc over 25 instances: 78.83 +- 8.64
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=50, batch_size=16
+root - INFO - Acc over 25 instances: 77.26 +- 9.23
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=50, batch_size=32
+root - INFO - Acc over 25 instances: 79.52 +- 8.55
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=50, batch_size=64
+root - INFO - Acc over 25 instances: 75.28 +- 7.32
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=100, batch_size=8
+root - INFO - Acc over 25 instances: 79.96 +- 7.75
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=100, batch_size=16
+root - INFO - Acc over 25 instances: 79.05 +- 9.22
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=100, batch_size=32
+root - INFO - Acc over 25 instances: 80.65 +- 8.05
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=100, batch_size=64
+root - INFO - Acc over 25 instances: 79.64 +- 7.37
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=150, batch_size=8
+root - INFO - Acc over 25 instances: 80.47 +- 8.95
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=150, batch_size=16
+root - INFO - Acc over 25 instances: 79.69 +- 8.65
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=150, batch_size=32
+root - INFO - Acc over 25 instances: 81.35 +- 8.24
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.005, epochs=150, batch_size=64
+root - INFO - Acc over 25 instances: 80.58 +- 8.00
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.0001, epochs=10, batch_size=8
+root - INFO - Acc over 25 instances: 53.86 +- 3.97
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.0001, epochs=10, batch_size=16
+root - INFO - Acc over 25 instances: 51.05 +- 4.73
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.0001, epochs=10, batch_size=32
+root - INFO - Acc over 25 instances: 42.52 +- 12.45
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.0001, epochs=10, batch_size=64
+root - INFO - Acc over 25 instances: 22.35 +- 14.80
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.0001, epochs=20, batch_size=8
+root - INFO - Acc over 25 instances: 60.00 +- 7.27
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.0001, epochs=20, batch_size=16
+root - INFO - Acc over 25 instances: 54.44 +- 5.00
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.0001, epochs=20, batch_size=32
+root - INFO - Acc over 25 instances: 51.27 +- 4.42
+root - INFO - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Training with lr=0.0001, epochs=20, batch_size=64
